@@ -1,0 +1,1 @@
+# angular-table-expand-collapse
